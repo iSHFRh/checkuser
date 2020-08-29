@@ -1,4 +1,4 @@
-# OSINT: social media check username
+# Social Media Check Username (OSINT)
 
 Hunt Down Open-Source Intelligence Using Social Media Accounts by Usernames.
 
@@ -7,3 +7,24 @@ This tool is a Python OSINT (Open-Source Intelligence Tool) for finding informat
 Then once you get a hit for that username on other social media sites/sites, you can then look for more information through their posts, data, pictures, etc that may give away more info on their IRL location, name, etc. As people tend to use the same username for every site/social media site they use.
 
 this tool is a way to get that data.
+
+---
+<img width="565" alt="checkusr" src="https://user-images.githubusercontent.com/66571054/91638739-3e178700-ea1a-11ea-88c6-9dc3e820c663.png">
+
+---
+
+After searching, the available results are saved in a file with the username 😉 .
+
+### Requirements:
+
+- Open VPN
+- Requests
+
+### How to usege:
+`pip3 install requests`
+
+`git clone https://github.com/iSHFRh/Checkusr.git`
+
+`cd Checkusr`
+
+`python3 checkusr.py`

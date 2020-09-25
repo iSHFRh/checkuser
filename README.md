@@ -25,8 +25,8 @@ After searching, the available results are saved in a file with the username ðŸ˜
 ### How to usege:
 `pip3 install requests`
 
-`git clone https://github.com/iSHFRh/Checkusr.git`
+`git clone https://github.com/iSHFRh/checkuser.git`
 
-`cd Checkusr`
+`cd checkuser`
 
-`python3 checkusr.py`
+`python3 checkuser.py`

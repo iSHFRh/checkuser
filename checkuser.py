@@ -27,7 +27,7 @@ def banner():
 88__   dP   Yb 88__dP 88__   88Yb88 `Ybo." 88 dP   `" `Ybo." 
 88""   Yb   dP 88"Yb  88""   88 Y88 o.`Y8b 88 Yb      o.`Y8b 
 88      YbodP  88  Yb 888888 88  Y8 8bodP' 88  YboodP 8bodP' """+END)
-    print(BOLD+BLUE+"\t\t\tCheckusr v1.0"+RED +" Coded by: iSHFRh"+END)
+    print(BOLD+BLUE+"\t\t\tCheckuser v1.0"+RED +" Coded by: iSHFRh"+END)
     print(BLUE+"""
                 .-`                     
               .++oo:                    
